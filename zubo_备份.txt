@@ -1,9 +1,3 @@
-天津联通-组播1,#genre#
-天津联通-组播2,#genre#
-天津联通-组播3,#genre#
-浙江电信-组播1,#genre#
-浙江电信-组播2,#genre#
-浙江电信-组播3,#genre#
 北京联通-组播1,#genre#
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视高清",CGTN
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="央视高清",CGTN纪录
@@ -106,33 +100,3 @@
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩篮球.png" group-title="卫视高清",睛彩篮球
 #EXTINF:-1 tvg-id="睛彩羽毛球" tvg-name="睛彩羽毛球" tvg-logo="https://live.fanmingming.com/tv/睛彩羽毛球.png" group-title="卫视高清",睛彩羽毛球
 #EXTINF:-1 tvg-id="晴彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://www.yangfeiyue.cn/tv/睛彩广场舞.png" group-title="卫视高清",睛彩广场舞
-上海电信-组播1,#genre#
-上海电信-组播2,#genre#
-上海电信-组播3,#genre#
-广东电信-组播1,#genre#
-广东电信-组播2,#genre#
-广东电信-组播3,#genre#
-江苏电信-组播1,#genre#
-江苏电信-组播2,#genre#
-江苏电信-组播3,#genre#
-安徽电信-组播1,#genre#
-安徽电信-组播2,#genre#
-安徽电信-组播3,#genre#
-湖北电信-组播1,#genre#
-湖北电信-组播2,#genre#
-湖北电信-组播3,#genre#
-重庆联通-组播1,#genre#
-重庆联通-组播2,#genre#
-重庆联通-组播3,#genre#
-湖南电信-组播1,#genre#
-湖南电信-组播2,#genre#
-湖南电信-组播3,#genre#
-河南联通-组播1,#genre#
-河南联通-组播2,#genre#
-河南联通-组播3,#genre#
-河北联通-组播1,#genre#
-河北联通-组播2,#genre#
-河北联通-组播3,#genre#
-宁夏电信-组播1,#genre#
-宁夏电信-组播2,#genre#
-宁夏电信-组播3,#genre#
