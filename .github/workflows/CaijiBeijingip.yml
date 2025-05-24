@@ -1,4 +1,4 @@
-name: zubo
+name: CaijiBeijingip
 
 on:
   schedule:
@@ -27,7 +27,7 @@ jobs:
       - name: 获取源
         run: |
           cd $GITHUB_WORKSPACE
-          python ./zubo.py
+          python ./CaijiBeijingip.py
           
       - name: Install Dependencies
         run: |
@@ -37,9 +37,9 @@ jobs:
       - name: ceshi
         run: |
           cd $GITHUB_WORKSPACE
-          cat zubo.txt > zubo_备份.txt
-          bash ./zubo2.sh
-          cat txt/北京联通.txt > zubo.txt
+          cat zubo.txt > zubo_bf.txt
+          bash ./CaijiBeijingip.sh
+          cat txt/Beijing_liantong.txt > zubo.txt
           
       - name: 更新源
         run: |
