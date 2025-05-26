@@ -15,4 +15,4 @@ http://ipipip/rtp/229.58.190.163:5000
 #EXTINF:-1 tvg-id="齐齐哈尔新闻综合" tvg-name="齐齐哈尔新闻综合" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔新闻综合.png" group-title="央视高清",齐齐哈尔新闻综合
 http://ipipip/rtp/229.58.190.193:5000
 #EXTINF:-1 tvg-id="齐齐哈尔经济法治" tvg-name="齐齐哈尔经济法治" tvg-logo="https://live.fanmingming.com/tv/齐齐哈尔经济法治.png" group-title="央视高清",齐齐哈尔经济法治
-http://ipipip/229.58.190.171:5000
+http://ipipip/rtp/229.58.190.171:5000
